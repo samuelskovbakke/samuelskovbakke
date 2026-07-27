@@ -14,6 +14,11 @@ When I'm not deep in a NixOS config or contributing to open source, I can be fou
 
 <img src="assets/jp.png" width="64" alt="Japanese flag"/>
 
+## 🔨 Projects
+Currently I mostly work on my NixOS system ❄️, but I try to make time to contribute to opensource projects here and there. Some years ago I also made a small game you can try by clicking the link below.
+
+You can play a fun little educational [game](https://samuelskovbakke.github.io/FUNction-v2.0/src/index.html) about surving hoards of spaceships. The game description is available [here](https://samuelskovbakke.github.io/FUNction-v2.0/).
+
 ---
 
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
