@@ -1,5 +1,6 @@
-### Hi There 👋, my name is Samuel Skovbakke
-*I love making computers go beep boop.*
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=500&lines=Hi+There+%F0%9F%91%8B%2C++my+name+is+Samuel+Skovbakke;I+love+making+computers+go+beep+boop" alt="Typing SVG" /></a>
+</div>
 
 ---
 ## 🧑‍💻 About me
@@ -19,20 +20,19 @@ Currently I mostly work on my NixOS system ❄️, but I try to make time to con
 
 You can play a fun little educational [game](https://samuelskovbakke.github.io/FUNction-v2.0/src/index.html) about surving hoards of spaceships. The game description is available [here](https://samuelskovbakke.github.io/FUNction-v2.0/).
 
----
+## 🛠️ Tech Stack
 
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
 
-<details>
-<summary>📊 GitHub Activity</summary>
+## 📊 GitHub Analytics
+<div align="center">
 
-<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samuelskovbakke&color=blue)
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=samuelskovbakke&theme=nightowl&show_icons=false&border_radius=6&hide=streak%2Cactive_day%2Cavg%2Chours)
+</div>
 
-</details>
